@@ -1,22 +1,22 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "Azure Functions OpenAPI Extension",
+    "description": "애저 펑션에 OpenAPI 붙이는 확장 기능",
+    "url": "https://aka.ms/azfunc-openapi"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Azure API Center Sample",
+    "description": "애저 API Center 레퍼런스 앱",
+    "url": "https://aka.ms/apicenter-sample"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": ".NET Aspire for Java",
+    "description": ".NET Aspire 앱에 자바/스프링 앱 통합하기",
+    "url": "https://github.com/aliencube/aspire-contribs"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "MelonChart.NET",
+    "description": "멜론 차트 긁어오기",
+    "url": "https://github.com/aliencube/MelonChart.NET"
   }
 ]
